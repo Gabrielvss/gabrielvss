@@ -11,8 +11,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielvss&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
   
-<div style="display: inline_block"><br>
-  <p>Python | Spark | Jupyter Notebook | Cloud Machine Learning | Databricks | Mlflow</p>
+<div><br>
+  ### Python | Spark | Jupyter Notebook | Cloud Machine Learning | Databricks | Mlflow
 </div>
   
   <br></br>
