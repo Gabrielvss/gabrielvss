@@ -13,7 +13,7 @@
   
   <br></br>
 
-<h2>Python | Spark | Jupyter Notebook | Cloud Machine Learning | Databricks | Mlflow</h2>
+<h3>Python | Spark | Jupyter Notebook | Cloud Machine Learning | Databricks | Mlflow</h3>
 
   
   <br></br>
