@@ -13,7 +13,9 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Saprk" height="30" width="40" object-fit= "cover" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg">
+  <img align="center" alt="Saprk" height="30" width="40" object-fit= "cover" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/512px-Apache_Spark_logo.svg.png">
+   <img align="center" alt="Saprk" height="30" width="40" object-fit= "cover" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/663px-Jupyter_logo.svg.png">
+  
 </div>
   
   <br></br>
