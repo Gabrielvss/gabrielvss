@@ -13,7 +13,7 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Saprk" height="30" width="40" object-fit= "cover" src="https://i1.wp.com/www.cienciaedados.com/wp-content/uploads/2015/12/Apache-Spark-e-Data-Science-.png?fit=420%2C210&ssl=1">
+  <img align="center" alt="Saprk" height="30" width="40" object-fit= "cover" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg">
 </div>
   
   <br></br>
