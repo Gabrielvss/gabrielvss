@@ -14,7 +14,7 @@
 # Last Highlight Projects
 - [Virtual paint with OpenCV and AI](https://github.com/Gabrielvss/Virtual_AI_Paint)
 - [recomendation_videos](https://github.com/Gabrielvss/recomendation_videos_api)
-- [Recommender system EAD (OTTO)**](https://www.kaggle.com/code/gabrielvinicius/otto-a-dip-in-the-data)
+- [Recommender system EAD (OTTO)](https://www.kaggle.com/code/gabrielvinicius/otto-a-dip-in-the-data)
 - [Simple CNN and Data augmentation with Pytorch](https://www.kaggle.com/code/gabrielvinicius/simple-cnn-and-data-augmentation-with-pytorch)
 - [Start YoloV5 with Blood Cells Detection](https://www.kaggle.com/code/gabrielvinicius/start-yolov5-with-blood-cells-detection/comments)
 - [Transfer Learning With Pytorch](https://www.kaggle.com/code/gabrielvinicius/transfer-learning-with-pytorch)
