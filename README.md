@@ -63,7 +63,8 @@
 
 
 # LLM  <a name="llm"></a>
-- [Sentiment Analysis - MultiGPU Train🤗](https://www.kaggle.com/code/gabrielvinicius/sentiment-analysis-multigpu-train)
+
+Hold On!
 
 # Deploy and MLops
 
