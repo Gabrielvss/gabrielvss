@@ -64,7 +64,9 @@
 
 # LLM  <a name="llm"></a>
 
-Hold On!
+- [LLM Instruction Finetuning on Medical Dataset 🩺](https://www.kaggle.com/code/gabrielvinicius/llm-instruction-finetuning-on-medical-dataset/notebook)
+- [RAG (Q/A) of Videos with LLM](https://www.kaggle.com/code/gabrielvinicius/rag-q-a-of-videos-with-llm)
+- [Advanced RAG  - Query Optimization](https://www.kaggle.com/code/gabrielvinicius/advanced-rag-query-optimization)
 
 # Deploy and MLops
 
