@@ -58,14 +58,13 @@
 
 # NLP  <a name="nlp"></a>
 - [Sentiment Analysis - MultiGPU Train🤗](https://www.kaggle.com/code/gabrielvinicius/sentiment-analysis-multigpu-train)
-
+- [Bert Models Family TPU Train](https://github.com/Gabrielvss/bert_tpu_finetuning/blob/main/TPU_LM_TRAIN_Tensorflow.ipynb)
 - [NLP - Processing and Feature Engineering](https://www.kaggle.com/code/gabrielvinicius/nlp-processing-and-feature-engineering)
 
 
 # LLM  <a name="llm"></a>
 
 - [LLM Instruction Finetuning on Medical Dataset 🩺](https://www.kaggle.com/code/gabrielvinicius/llm-instruction-finetuning-on-medical-dataset/notebook)
-- [Bert Models Famyli TPU Train](https://github.com/Gabrielvss/bert_tpu_finetuning/blob/main/TPU_LM_TRAIN_Tensorflow.ipynb)
 - [RAG (Q/A) of Videos with LLM](https://www.kaggle.com/code/gabrielvinicius/rag-q-a-of-videos-with-llm)
 - [Advanced RAG  - Query Optimization](https://www.kaggle.com/code/gabrielvinicius/advanced-rag-query-optimization)
 
