@@ -57,9 +57,11 @@
 
 
 # NLP  <a name="nlp"></a>
-- [Sentiment Analysis - MultiGPU Train🤗](https://www.kaggle.com/code/gabrielvinicius/sentiment-analysis-multigpu-train)
-- [Bert Models Family TPU Train](https://github.com/Gabrielvss/bert_tpu_finetuning/blob/main/TPU_LM_TRAIN_Tensorflow.ipynb)
 - [NLP - Processing and Feature Engineering](https://www.kaggle.com/code/gabrielvinicius/nlp-processing-and-feature-engineering)
+- [Eedi - Exploration Misconceptions in Mathematics](https://www.kaggle.com/code/gabrielvinicius/eedi-exploration-misconceptions-in-mathematics)
+- [Sentiment Analysis - MultiGPU Train🤗](https://www.kaggle.com/code/gabrielvinicius/sentiment-analysis-multigpu-train)
+- [Bert Models Family TPU Train - Text Classification](https://github.com/Gabrielvss/bert_tpu_finetuning/blob/main/TPU_LM_TRAIN_Tensorflow.ipynb)
+
 
 
 # LLM  <a name="llm"></a>
