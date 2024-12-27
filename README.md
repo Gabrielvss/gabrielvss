@@ -30,7 +30,7 @@
 
 - [Fetal Health Analysis](https://github.com/Gabrielvss/Fetal-Health-Classification/blob/main/1_Data_analysis.ipynb)
 
-## Modeling
+## Tabular Modeling
 
 - [Fetal Health Classification](https://github.com/Gabrielvss/Fetal-Health-Classification/blob/main/2_Model_build.ipynb)
 
@@ -57,6 +57,7 @@
 
 
 # NLP  <a name="nlp"></a>
+- [Eedi - Exploration Misconceptions in Mathematics](https://www.kaggle.com/code/gabrielvinicius/eedi-exploration-misconceptions-in-mathematics)
 - [NLP - Processing and Feature Engineering](https://www.kaggle.com/code/gabrielvinicius/nlp-processing-and-feature-engineering)
 - [Eedi - Exploration Misconceptions in Mathematics](https://www.kaggle.com/code/gabrielvinicius/eedi-exploration-misconceptions-in-mathematics)
 - [Sentiment Analysis - MultiGPU Train🤗](https://www.kaggle.com/code/gabrielvinicius/sentiment-analysis-multigpu-train)
